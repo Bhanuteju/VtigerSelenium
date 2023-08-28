@@ -5,7 +5,7 @@ import java.time.Duration;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//This is an example for navigate refresh fetch title url
 public class NavigateRefreshFetchTitleUrl {
 
 	public static void main(String[] args) throws Exception {
